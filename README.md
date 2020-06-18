@@ -20,7 +20,7 @@ I wanted to understand more about happiness especially what factors influence it
 ## How to run it
 
 1. Open terminal in the project folder
-2. Open `` jupyter-notebook``
+2. Type `` jupyter-notebook``
 3. Click on `Analyzing-world-happiness-data-set.ipynb`
 4. Now you can see/run analysis
 
