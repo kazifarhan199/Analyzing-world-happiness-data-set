@@ -1,5 +1,8 @@
 # Analyzing world happiness data set
 
+Looking for a comprehensive guide to this analysis? Check out our [article](https://medium.com/@kazifarhan199/analyzing-world-happiness-data-set-c6ffb2603ffb) that walks you through the process step by step. 
+
+
 Here we are going to tackle we are going to look into the [world happiness](https://www.kaggle.com/unsdsn/world-happiness) data set, and we are going to answer questions like
 * Which country has highest happiness score ?
 * Which country has the worst happiness score ?
