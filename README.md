@@ -1,3 +1,7 @@
+
+![GitHub](https://img.shields.io/github/license/kazifarhan199/Analyzing-world-happiness-data-set)
+![GitHub repo size](https://img.shields.io/github/repo-size/kazifarhan199/Analyzing-world-happiness-data-set)
+
 # Analyzing world happiness data set
 
 Looking for a comprehensive guide to this analysis? Check out our [article](https://medium.com/@kazifarhan199/analyzing-world-happiness-data-set-c6ffb2603ffb) that walks you through the process step by step. 
